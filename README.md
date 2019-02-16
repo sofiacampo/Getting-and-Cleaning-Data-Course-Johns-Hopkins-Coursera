@@ -1,9 +1,13 @@
 # getting_and_cleaning_data
+
 Week 4 Project Getting and Cleaning Data Jonhs Hopkins University
 
 File Name: README.md;
+
 Creator: Sofia Campo;
+
 Course: Getting and Cleaning Data Project, Jonhs Hopkins Data Science Specialization;
+
 Date: February 2019
 
 This repository contains the R script, the output of the R script, and the support documentation, of the 'Getting and Cleaning Data' course project from the Jonhs Hopkins Data Science Specialization.
