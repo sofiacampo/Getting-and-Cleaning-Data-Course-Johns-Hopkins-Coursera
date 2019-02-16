@@ -1,7 +1,6 @@
 # getting_and_cleaning_data
 Week 4 Project Getting and Cleaning Data Jonhs Hopkins University
 
-File Name: Read_Me.MD
 Creator: Sofia Campo
 Course: Getting and Cleaning Data Project, Jonhs Hopkins Data Science Specialization
 Date: February 2019
