@@ -1,6 +1,9 @@
-File Name: Code_Book.MD
-Creator: Sofia Campo
-Course: Getting and Cleaning Data Project, Jonhs Hopkins Data Science Specialization
+File Name: Code_Book.MD;
+
+Creator: Sofia Campo;
+
+Course: Getting and Cleaning Data Project, Jonhs Hopkins Data Science Specialization;
+
 Date: February 2019
 
 This document is the CodeBook for the 'Getting and Cleaning Data' course project from the Jonhs Hopkins Data Science Specialization.
